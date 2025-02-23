@@ -39,3 +39,15 @@ Detects emotions from live camera feed using OpenCV and a pre-trained CNN model.
 ```bash
 git clone https://github.com/yourusername/emotion-detection-app.git
 cd emotion-detection-app
+```
+
+### **2️⃣ Install Dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+### **3️⃣ Run the App**
+```bash
+streamlit run app.py
+```
+
