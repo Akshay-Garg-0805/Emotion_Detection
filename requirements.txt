@@ -1,19 +1,13 @@
 # Core dependencies
-streamlit==1.30.0
-opencv-python==4.9.0.80
-numpy==1.26.4
-tensorflow==2.15.0
-keras==2.15.0
-pillow==10.2.0
+streamlit
+opencv-python
+numpy
+tensorflow
+keras
+pillow
 
 # Additional image processing & ML utilities
-opencv-contrib-python==4.9.0.80
-matplotlib==3.8.2
-scipy==1.11.4
+opencv-contrib-python
+matplotlib
+scipy
 
-# Streamlit UI Enhancements
-streamlit-toggle-switch==1.0.2
-streamlit-webrtc==0.46.0
-
-# System compatibility
-protobuf==3.20.3
