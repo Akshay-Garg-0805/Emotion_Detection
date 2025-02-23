@@ -4,7 +4,7 @@
 This project is a **real-time Emotion Detection App** built with **Streamlit** and **OpenCV**. It uses a **pre-trained deep learning model** to recognize emotions from live camera feed.
 
 ---
-<div align="center"> <img src="https://media.giphy.com/media/Z9kNOx4hrUx68/giphy.gif" width="60%" alt="Emotion Detection Animation"> </div>
+![Emotion Detection](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)  
 
 ## 🚀 Features
 - 🎥 **Real-time webcam support**
