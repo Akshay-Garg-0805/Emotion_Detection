@@ -53,14 +53,13 @@ streamlit run app.py
 
 ---
 ## 📸 How It Works
-🔹 The app accesses your webcam using OpenCV
-🔹 A pre-trained Deep Learning model detects emotions
-🔹 Face bounding box + Emotion label with confidence score is displayed
-🔹 Streamlit provides a smooth user interface
+1. The app accesses your webcam using OpenCV
+2. A pre-trained Deep Learning model detects emotions
+3. Face bounding box + Emotion label with confidence score is displayed
+4. Streamlit provides a smooth user interface
 
 ---
-
-###💡 Supported Emotions:
+💡 Supported Emotions:
 😃 Happy | 😢 Sad | 😠 Angry | 😮 Surprised | 😐 Neutral
 
 
