@@ -58,7 +58,9 @@ streamlit run app.py
 🔹 Face bounding box + Emotion label with confidence score is displayed
 🔹 Streamlit provides a smooth user interface
 
-###💡 **Supported Emotions:**
+---
+
+###💡 Supported Emotions:
 😃 Happy | 😢 Sad | 😠 Angry | 😮 Surprised | 😐 Neutral
 
 
