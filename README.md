@@ -1,4 +1,4 @@
-# Emotion Detection using Streamlit
+# 😃 Emotion Detection using Streamlit 🎭
 
 ## 📌 Overview
 This project is a **real-time Emotion Detection App** built with **Streamlit** and **OpenCV**. It uses a **pre-trained deep learning model** to recognize emotions from live camera feed.
