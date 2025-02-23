@@ -21,7 +21,7 @@ Detects emotions from live camera feed using OpenCV and a pre-trained CNN model.
 ---
 
 ## 🎬 **Preview**  
-![App Preview](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)  
+![App Preview](![image](https://github.com/user-attachments/assets/85762f2b-e240-4e5e-a2e7-28c2827cfc8f))  
 
 ---
 
